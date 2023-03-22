@@ -1,0 +1,37 @@
+.title{
+  display:flex;
+  text-align: center;
+  justify-content: center;
+  padding: 1em;
+  margin-bottom: 2em;
+  background-color: rgb(246, 206, 213);
+  color:rgb(164, 116, 124)
+  }
+
+.photos{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.button{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.temperature{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+
+
+}
+
+.forecast{
+  display: flex;
+  text-align: right;
+  justify-content: center;
+
+  
+}
